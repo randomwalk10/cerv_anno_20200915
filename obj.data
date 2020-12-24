@@ -1,3 +1,4 @@
 classes = 10
-names = obj.names
-train = train.txt
+names = data/obj.names
+train = data/train.txt
+backup = backup/
