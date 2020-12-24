@@ -1,4 +1,4 @@
 classes = 10
-names = data/obj.names
 train = data/train.txt
+names = data/obj.names
 backup = backup/
